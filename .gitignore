@@ -1,0 +1,10 @@
+# ROS 2 Build-Ordner
+build/
+install/
+log/
+
+# IDEs und temporäre Dateien
+.vscode/
+.idea/
+*.swp
+*~
