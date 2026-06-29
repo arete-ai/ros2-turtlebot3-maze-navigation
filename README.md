@@ -4,6 +4,8 @@ This repository contains the source code and documentation for the Robotics Prac
 
 The course introduces the Robot Operating System (ROS 2) and covers everything from basic node communication to implementing position control for a mobile robot (TurtleBot3).
 
+<img width="65%" height="65%" src="https://github.com/user-attachments/assets/6145400d-5b17-4f78-a602-37b6b8534cb8" />
+
 ## Prerequisites
 
 - **OS:** Ubuntu 22.04 
